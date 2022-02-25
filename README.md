@@ -30,12 +30,12 @@ Using k-means, a common unsupervised machine learning algorithm the cryptocurren
 ## Module Lessons and Activities
 
 - Overview and introduction to unsupervised machine learning
-- Data Preparation and preprocessing for machine learning
+- Data preparation and preprocessing for machine learning
 - KMeans algorithm
 	- Generating elbow curves
-- Principle Component Analysis
-- Hierarchical Clustering
-	- Generating Dendrograms
+- Principle component analysis (PCA)
+- Hierarchical clustering
+	- Generating dendrograms
 
 
 ---
