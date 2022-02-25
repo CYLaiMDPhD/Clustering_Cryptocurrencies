@@ -3,7 +3,7 @@
 *Note: This repository was created to fulfill an assignment (Module 18 Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. Submitted on 2-25-22 for grading.*
 
 
-## Overview
+## Summary Overview
 This project demonstrates some fundamental steps in unsupervised machine learning using the SciKit Learn module and a sample dataset of cryptocurrency properties. The data was cleaned and transformed using pandas. Specifically, the algorithm and proof type features were converted to 96 features by one-hot encoding. Feature dimensions were then reduced to three componenets by principle component analysis and scaled using StandardScaler. Finally, a k-means algorithm as applied to cluster data into four clusters and visualized using hvplot. 
 
 
