@@ -10,6 +10,15 @@ This project demonstrates some fundamental steps in unsupervised machine learnin
 **Data Source:** 
 A dataset of crytocurrency trading data provided by course as csv file.
 
+**Figure 1: Elbow Curve to Determine Best Number of Clusters for K-Means Algorithm**
+
+![Fig1.png](/Images/Fig1.png)
+
+
+
+**Figure 2: 3D Plot of Cryptocurrencies Clustered by K-Means**
+
+![Fig2.png](/Images/Fig2.png)
 
 ---
 ## Module Lessons and Activities
