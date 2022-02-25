@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-*Note: This repository was created to fulfill an assignment (Module 18 Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The analysis, content, and format of this report were based on the grading rubric.*
+*Note: This repository was created to fulfill an assignment (Module 18 Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. Analysis, content, and code were based on the grading rubric.*
 
 
 ## Summary Overview
