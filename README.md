@@ -22,7 +22,7 @@ A dataset of crytocurrency data provided by course as csv file.
 ![Fig2.png](/Images/Fig2.png)
 
 
-Using k-means, a common unsupervised machine learning algorithm the cryptocurrencies in our dataset were grouped into four distinct clusters on three principle components. Two popular cryptocurrencies, Bitcoin and Ethereum, were clustered into class 1 (magenta diamonds in Figure 2) along with other lesser known coins. The BitTorrent coin stands alone in its own cluster (orange X in Figure 2). These clustering results could potentially be used to further train a supervised machine learning model in order to recommend actions or predict coin values, fluctuations, or other data. However, as our dataset contained no information about coin prices or trading metrics, the clusters determined here have no inherent properties linked to real world monetary values.
+Using k-means, a common unsupervised machine learning algorithm, the cryptocurrencies in our dataset were grouped into four distinct clusters on three principle components. Two popular cryptocurrencies, Bitcoin and Ethereum, were clustered into class 1 (magenta diamonds in Figure 2) along with other lesser known coins. The BitTorrent coin stands alone in its own cluster (orange X in Figure 2). These clustering results could potentially be used to further train a supervised machine learning model in order to recommend actions or predict coin values, fluctuations, or other data. However, as our dataset contained no information about coin prices or trading metrics, the clusters determined here have no inherent properties linked to real world monetary values.
 
 
 
